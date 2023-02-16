@@ -1,2 +1,3 @@
-# Colorpicker
+# Colorpicker Met OOP versie
+
 
